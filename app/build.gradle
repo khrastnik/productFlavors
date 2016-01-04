@@ -43,18 +43,21 @@ android {
             applicationId "com.dependencymanager.fbintegration"
             versionCode 1
             versionName "1.0.0"
+            ext.enableCrashlytics = false
         }
 
         twitterIntegration {
             applicationId "com.dependencymanager.twitterintegration"
             versionCode 1
             versionName "1.0.0"
+            ext.enableCrashlytics = false
         }
 
         fbAndTwitterIntegration {
             applicationId "com.dependencymanager.fbAndTwitterintegration"
             versionCode 1
             versionName "1.0.0"
+            ext.enableCrashlytics = false
         }
     }
 }
