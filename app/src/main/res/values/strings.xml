@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Product Flavors</string>
+
+    <string name="twitter_key"></string>
+    <string name="twitter_secret_key"></string>
+    <string name="facebook_app_id">934811456594103</string>
+
+
+
+</resources>
